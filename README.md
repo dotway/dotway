@@ -1,8 +1,8 @@
-<h2>Hi I'm Ayemidotun Popoola! 👋</h2>
+<h2>Hi, I'm Ayemidotun Popoola! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamesobed.jamesobed)](https://github.com/dotway) [![GitHub followers](https://img.shields.io/github/followers/jamesobed.svg?style=social&label=Follow)](https://github.com/dotway?tab=followers)
 
-<p>I am a software developer with a cumulative of 3 years experience, 1 year of non-commercial experience and 2 years of commercial experience.My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
+<p>I am a software Engineer with a great experience in Java backend software development, HTML5 , Java, Spring Boot, Spring Security, JPA/Hibernate, JUnit 5, Docker, Mysql, Postgresql, MongoDB, WordPress, Javascript, Larval React JS, Microservice, Version Control with Git and Github. I have developed software solutions for business use cases from conceptualization to deployment. I have used my top-notch skills such as execution of best practices in the industry using TDD, agile methodology and innovations to solve life problems. The Software I have built include Real Estate Management System, Blog API, School Management System and the likes. With these, I believe I will be a great asset to your company.
 </p>
 <p>
 If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes.
@@ -10,7 +10,7 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="https://obedjamesportfolio.netlify.app/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/obed-james-72671b167">LinkedIn</a>
+<a href="https://dotwaysolution.com.ng/portfolio">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/popoola-ayemidotun-320ba4129">LinkedIn</a>
 
 <br />
 
